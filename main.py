@@ -1,4 +1,3 @@
-# Homework 4 by Ru Meng(Dan) Wang main.py
 
 n = input("Enter a year greater than or equal to 1582 to evaluate (enter -1 to exit the program): ")
 year = int(n)
